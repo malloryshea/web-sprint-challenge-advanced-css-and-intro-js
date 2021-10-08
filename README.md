@@ -23,10 +23,27 @@ Commit your code regularly and meaningfully.
 Please answer the following questions below, you may edit the readme file to include your answers below the question.
 
 1. How would you describe acessibility on the web to someone new to programming?
-2. Talk about 3 different things you can do to ensure your website is accessible. 
+
+Accessibility is the practice of making your websites usable by as many people as possible and benefits other groups such as those using mobile devices or those who have disabilities.
+
+2. Talk about 3 different things you can do to ensure your website is accessible.
+
+Three different things you can do to ensure that your website is accessible are as follows:
+-Include proper alt text for images for those who are visually impared.
+-Using consistent webpage layout and navigation.
+-Practicing using lean semantic markup, it is not only good for screen readers, but it is also fast to load and performant. This benefits everyone, especially those on mobile devices and/or slow connections.
+
 3. How would you explain the concept of a variable to someone new to programming?
+
+A variable is used to store data values. There are two scopes of a variable: Global and Local. A global variable can be defined anywhere in your JavaScript code while A local variable is only visible only within a function where it is defined. JavaScript uses the keywords var , let and const to declare variables.
+
 4. What is the purpose of using functions in code?
+
+The purpose of using functions in code is to be able to repeat a code without having to retype it each time. This condenses a complex code and simplifies it. Functions allow coders to implement the DRY acronym.
+
 5. How do you access a key inside of an object inside of an array?
+
+array[index].key
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
